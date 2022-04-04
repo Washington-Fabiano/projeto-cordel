@@ -20,21 +20,20 @@
 body {
     min-height: 100vh;
     background-color: gray;
-    
 }
 header {
     display: block;
     background-color: black;
     color: white;
     text-align: center;
-   
+
 }
 header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: 'Passion One', cursive;
     font-size: 10vh;
-    
+
 }
 header > p {
     padding-bottom: 50px;
@@ -58,7 +57,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font02);
-    
+
 }
 section > p {
     padding-bottom: 2em;
@@ -79,16 +78,16 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.392);
-    
+
 }
 section#img01 {
     background-image: url('pacote-d012/imagens/background001.jpg');
     background-position: right center;
-   
+
 }
 section#img02 {
     background-image: url('pacote-d012/imagens/background002.jpg');
-   
+
 }
 footer {
     background-color: black;
